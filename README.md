@@ -26,9 +26,9 @@ This Express.js API, configured to use Sequelize to interact with a MySQL databa
 3. Setup Enviornment Variables:
 Create an '.env' file and add the following:
 ```bash
-    DB_NAME=your_database_name
-    DB_USER=your_mysql_username
-    DB_PASSWORD=your_mysql_password
+DB_NAME=your_database_name
+DB_USER=your_mysql_username
+DB_PASSWORD=your_mysql_password
 ```
 4. Create the Database:
 Using MySQL shell commands like so - 
